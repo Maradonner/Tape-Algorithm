@@ -20,4 +20,5 @@ List<Task> tasks = new List<Task>()
 
 Schedule schedule = new Schedule(tasks, 5);
 schedule.BeautyPrint();
+Console.ReadLine();
 
